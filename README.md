@@ -32,8 +32,8 @@ To write a program to predict the price of cars using a multiple linear regressi
 ```
 /*
 Program to implement the multiple linear regression model for predicting car prices with cross-validation.
-Developed by: 
-RegisterNumber:  
+Developed by: GANESH PRABHU J
+RegisterNumber: 212223220023
 */
 ```
 ```
